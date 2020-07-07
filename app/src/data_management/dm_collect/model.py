@@ -215,6 +215,8 @@ class Vacancy(BaseModel):
             'backend',
             'fullstack',
             'mobile',
+            'ios',
+            'android',
             'devops',
             'data']
 
